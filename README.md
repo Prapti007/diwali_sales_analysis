@@ -41,7 +41,7 @@ The Diwali Sales Analysis project aims to provide meaningful insights into the s
 3. Region of most numbers of buyers. 
 4. Marital status of large number of buyers.
 5. Occupation of buyers.
-6. Product Category analysis 
+6. Product Category analysis. 
    
 The project generates visualizations and reports to make it easier to understand and interpret the results.
 
