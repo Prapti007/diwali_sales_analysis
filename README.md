@@ -37,7 +37,7 @@ The sales data used in this project is stored in the "Diwali Sales Data.csv" fil
 The Diwali Sales Analysis project aims to provide meaningful insights into the sales data during the Diwali season. The results may include but are not limited to:
 
 1. Which gender is purchasing more on diwali.
-2. Age Range of most frequent buyers.
+2. Age Range of most frequent buyers. 
 3. Region of most numbers of buyers. 
 4. Marital status of large number of buyers.
 5. Occupation of buyers.
