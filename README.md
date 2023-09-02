@@ -20,7 +20,8 @@ To run the Diwali Sales Analysis project locally, follow these steps:
 ## Usage
 Once you have installed the necessary dependencies, you can use the project to perform Diwali sales analysis by following these steps:
 
-1. Ensure that you have the Diwali sales data in a compatible format. The project expects a CSV file named Diwali Sales Data.csv placed in the data directory. Adjust the file name and location as necessary.
+1. Ensure that you have the Diwali sales data in a compatible format. The project expects a CSV file named Diwali Sales Data.csv placed in the data directory. 
+   Adjust the file name and location as necessary.
 
 2. Open the project in your preferred Python environment.
 
