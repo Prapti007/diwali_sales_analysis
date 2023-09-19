@@ -33,8 +33,7 @@ Once you have installed the necessary dependencies, you can use the project to p
  
 ## Data
  The sales data used in this project is stored in the "Diwali Sales Data.csv" file. It contains information such as the product ID, customer ID, amount, age 
- group, 
- and other relevant attributes for each transaction. The dataset is in CSV format, making it easily accessible and compatible with Pandas for data analysis.
+ group, and other relevant attributes for each transaction. The dataset is in CSV format, making it easily accessible and compatible with Pandas for data analysis.
 
 ## Results
 The Diwali Sales Analysis project aims to provide meaningful insights into the sales data during the Diwali season. The results may include but are not limited to:
