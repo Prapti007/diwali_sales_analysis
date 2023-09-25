@@ -37,7 +37,8 @@ Once you have installed the necessary dependencies, you can use the project to p
  analysis.
 
 ## Results
-The Diwali Sales Analysis project aims to provide meaningful insights into the sales data during the Diwali season. The results may include but are not limited to:
+ The Diwali Sales Analysis project aims to provide meaningful insights into the sales data during the Diwali season. The results may include but are not limited 
+ to:
 
 1. Which gender is purchasing more on diwali.
 2. Age Range of most frequent buyers. 
