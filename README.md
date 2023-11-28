@@ -50,4 +50,5 @@ Once you have installed the necessary dependencies, you can use the project to p
  The project generates visualizations and reports to make it easier to understand and interpret the results.
 
 ## Contributing
-Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the project's GitHub repository. If you would like to contribute code, feel free to open a pull request after forking the repository.
+ Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the project's GitHub repository. 
+ If you would like to contribute code, feel free to open a pull request after forking the repository.
