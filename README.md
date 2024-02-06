@@ -47,7 +47,7 @@ Once you have installed the necessary dependencies, you can use the project to p
 5. Occupation of buyers.
 6. Product Category analysis. 
    
- The project generates visualizations and reports to make it easier to understand and interpret the results.
+The project generates visualizations and reports to make it easier to understand and interpret the results.
 
 ## Contributing
  Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the project's GitHub repository. 
