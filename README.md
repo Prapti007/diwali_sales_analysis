@@ -2,7 +2,9 @@
 Welcome to the diwali_sales_analysis project! This project aims to analyze the sales data from a huge sales database during the Diwali season using Python, pandas, NumPy, seaborn and matplotlib libraries.
 
 ## Introduction
-The Diwali Sales Analysis project is focused on extracting insights from a massive sales database to gain a deeper understanding of sales trends, customer behavior, and overall performance during the Diwali season. The project utilizes popular Python libraries such as pandas, NumPy, seaborn, and matplotlib to perform data manipulation, visualization, and analysis.
+ The Diwali Sales Analysis project is focused on extracting insights from a massive sales database to gain a deeper understanding of sales trends, customer 
+ behavior, and overall performance during the Diwali season. The project utilizes popular Python libraries such as pandas, NumPy, seaborn, and matplotlib to 
+ perform data manipulation, visualization, and analysis.
 
 ## Installation
 To run the Diwali Sales Analysis project locally, follow these steps:
